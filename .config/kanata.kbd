@@ -12,10 +12,10 @@
 
 (defvar
   streak-count 3
-  streak-time 325
+  streak-time 275
   tap-timeout 200
   hold-timeout 500
-  chord-timeout 50
+  chord-timeout 100
 )
 
 (deftemplate charmod (char mod)
